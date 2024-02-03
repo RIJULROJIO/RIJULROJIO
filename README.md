@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rijul Rojio</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🔭 I’m currently working on **Property Rentals Platform**
-
-- 🌱 I’m currently learning **Django,Cloud**
-
+-👀 Django Developer
+🌱 I’m currently doing Master's in Computer Applications
+💞️ I'm open to collaborating on exciting projects in the field of software development and web development.
 - 📫 How to reach me **rijulrojio@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rijulrojio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rijulrojio" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rijul-rojio-31155523b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rijulrojio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
