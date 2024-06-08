@@ -2,9 +2,9 @@
 <h3 align="center">A passionate software developer</h3>
 
 -👀 Django Developer
-🌱 I’m currently doing Master's in Computer Applications
+🌱 I’m currently completed Master's in Computer Applications
 💞️ I'm open to collaborating on exciting projects in the field of software development and web development.
-- 📫 How to reach me **rijulrojio@gmail.com**
+- 📫 How to reach me **rijulrojio2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
