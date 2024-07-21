@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rijul Rojio</h1>
 <h3 align="center">A passionate software developer</h3>
 
--👀 Django Developer
+-👀 Software Developer
 🌱 I’m currently completed Master's in Computer Applications
 💞️ I'm open to collaborating on exciting projects in the field of software development and web development.
 - 📫 How to reach me **rijulrojio2@gmail.com**
